@@ -19,5 +19,6 @@ Applicazione di una struttura operativa di una scuola di formazione professional
 - **Gestione Partecipanti:**
   - Inizializzazione Partecipante (nome, cognome, paese d'origine, livello istruzione, competenze linguistiche, ambito d'interesse di formazione).
   - Iscrizione ad un corso disponibile.
+  - Completamentamento al corso iscritto.
   - Visualizzazione iscritto.
 
